@@ -13,3 +13,9 @@
 
 **Teaching Assistants:** Participants are encouraged to ask questions during the sessions. For additional support after the sessions, please contact the instructors via email.  
 **Schedule:** Please see [schedule.md](schedule.md) for the detailed schedule of the course. 
+
+## Important Links
+
+### Main reference material: jingyaogong/minimind
+
+Link: https://github.com/jingyaogong/minimind
