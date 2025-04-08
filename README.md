@@ -16,6 +16,4 @@
 
 ## Important Links
 
-### Main reference material: jingyaogong/minimind
-
-Link: https://github.com/jingyaogong/minimind
+- Main reference material: https://github.com/jingyaogong/minimind
