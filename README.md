@@ -16,4 +16,4 @@
 
 ## Important Links
 
-- Main reference material: https://github.com/jingyaogong/minimind
+- Main reference material: https://github.com/jingyaogong/minimind/blob/master/README_en.md
